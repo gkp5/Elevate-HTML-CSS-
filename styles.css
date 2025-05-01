@@ -902,7 +902,8 @@ input[type="radio"] {
     opacity: 1;
     transform: scale(1);
   }
-  
+
+/* 
   /* Dark Theme Variables */
   :root {
     --primary-color: #4a6cf7;
@@ -973,5 +974,5 @@ input[type="radio"] {
   [data-theme="dark"] .moon-icon {
     opacity: 0;
     transform: scale(0.5);
-  }
+  } */
 
