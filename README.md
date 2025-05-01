@@ -1,4 +1,4 @@
-🌐 Elevate – Business Growth Landing Page
+# Elevate – Business Growth Landing Page
 
 **Elevate** is a clean and modern landing page built entirely with **HTML** and **CSS**, designed for startups, SaaS platforms, and growing businesses. It features a professional UI with a hero section, service cards, testimonials, and a contact form.
 
@@ -16,4 +16,4 @@
 - `style.css`
 
 ### 📸 Preview
-![Elevate](https://github.com/user-attachments/assets/0f4bfc4c-9989-4851-91e7-486ccfd098a1)
+![Elevate](https://github.com/user-attachments/assets/3a1ce49a-c45b-4046-95d9-2d2ae4b60594)
